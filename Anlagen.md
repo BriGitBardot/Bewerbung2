@@ -17,20 +17,22 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 
 ## Allgemein anerkannte Abschlüsse
 - [Hochschulzugangsberechtigung]({{ site.url }}/assets/AllgemeineHochschulreife.pdf)
-- [Magister-Urkunde]({{ site.url }}/assets/Magisterurkunde.pdf)
+- [Magister-Urkunde]({{ site.url }}/assets/Magisterurkunde.pdf)   
+
 
 ## Sprachnachweise   
 
-### Türkisch
-- [1. Semester]({{ site.url }}/assets/tuerkisch1.pdf)
-- [2. Semester]({{ site.url }}/assets/tuerkisch2.pdf)
+### Englisch
+- [TOEFL]({{ site.url }}/assets/toefl.pdf)
+- [Ordinate 10-Set]({{ site.url }}/assets/OrdinateSet10.pdf)
+- [Academic Writing Skills]({{ site.url }}/assets/AcademicWritingSkills.pdf)
 
 ### Französich
 - [DELF]({{ site.url }}/assets/delf.pdf)
 
 ### Türkisch
 - [1. Semester]({{ site.url }}/assets/tuerkisch1.pdf)
-- [2. Semester]({{ site.url }}/assets/tuerkisch2.pdf)
+- [2. Semester]({{ site.url }}/assets/tuerkisch2.pdf)   
 
 ## Software
 - [Java]({{ site.url }}/assets/java.pdf)
@@ -40,7 +42,8 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 - [Dreamweaver]({{ site.url }}/assets/dreamweaver.pdf)
 - [InDesign]({{ site.url }}/assets/indesign.pdf)
 - [Word für wissenschaftliches Arbeiten]({{ site.url }}/assets/word.pdf)
-- [Imperia für Anwender]({{ site.url }}/assets/imperia.pdf)
+- [Imperia für Anwender]({{ site.url }}/assets/imperia.pdf)   
+
 
 ## Hochschuldidaktik
 - [Zertifikat 'Schreibberaterin']({{ site.url }}/assets/Zertifikat_Schreibberaterin.pdf)
@@ -54,7 +57,8 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 - [Meine Stimme, mein Sprechen]({{ site.url }}/assets/Stimme.pdf)
 - [Kompetenzorientiertes Planen und Prüfen]({{ site.url }}/assets/Pruefen.pdf)
 - [Studierenden Schlüsselkompetenzen vermitteln]({{ site.url }}/assets/Schluesselkompetenzen.pdf)
-- [Praxisbaustein: Innovatives Lehrprojekt]({{ site.url }}/assets/Lehrprojekt.pdf)
+- [Praxisbaustein: Innovatives Lehrprojekt]({{ site.url }}/assets/Lehrprojekt.pdf)   
+
 
 ## Arbeitszeugnisse
 - [Generaldelegation Palästinas]({{ site.url }}/assets/Generaldelegation.pdf)
@@ -64,14 +68,14 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 - [LVM-Versicherung]({{ site.url }}/assets/LVM.pdf)
 - [Schreibberatung]({{ site.url }}/assets/Schreibberatung.pdf)
 - [Tutorium in der Germanistik]({{ site.url }}/assets/Tutorium.pdf)
-- [Bibliothek des Germanistischen Instituts]({{ site.url }}/assets/bib.pdf)
+- [Bibliothek des Germanistischen Instituts]({{ site.url }}/assets/bib.pdf)   
 
 
 ## Sonstige
 - [Hochschulverwaltung]({{ site.url }}/assets/Hochschulverwaltung.pdf)
 - [Professionelle Gesprächsführung I]({{ site.url }}/assets/Gespraechsfuehrung1.pdf)
 - [Professionelle Gesprächsführung II]({{ site.url }}/assets/Gespraechsfuehrung2.pdf)
-- [Bildgewinnung und Produktion]({{ site.url }}/assets/Bildgewinnung.pdf)
+- [Bildgewinnung und Produktion]({{ site.url }}/assets/Bildgewinnung.pdf)   
 
 
 Beglaubigte Originale können jederzeit gerne angefordert werden.
