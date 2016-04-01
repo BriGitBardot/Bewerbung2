@@ -15,7 +15,7 @@ linkedin_link: https://www.linkedin.com/profile/preview?vpa=pub&locale=de_DE
 stackoverflow_link: http://stackoverflow.com/users/3616812/user3616812
 
 # Footer
-footer_left: "<a href="www.annika-hamachers.de/impressum">Impressum</a>"
+footer_left: "<a href=\"/impressum\">Impressum</a>"
 footer_right: "powered by <a href=\"https://jekyllrb.com\">Jekyll</a>"
 
 # Build settings
