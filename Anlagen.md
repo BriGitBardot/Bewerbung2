@@ -19,6 +19,7 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 - [Hochschulzugangsberechtigung]({{ site.url }}/assets/AllgemeineHochschulreife.pdf)
 - [Magister-Urkunde]({{ site.url }}/assets/Magisterurkunde.pdf)   
 
+<br>
 
 ## Sprachnachweise   
 
@@ -44,6 +45,7 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 - [Word für wissenschaftliches Arbeiten]({{ site.url }}/assets/word.pdf)
 - [Imperia für Anwender]({{ site.url }}/assets/imperia.pdf)   
 
+<br>
 
 ## Hochschuldidaktik
 - [Zertifikat 'Schreibberaterin']({{ site.url }}/assets/Zertifikat_Schreibberaterin.pdf)
@@ -59,6 +61,7 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 - [Studierenden Schlüsselkompetenzen vermitteln]({{ site.url }}/assets/Schluesselkompetenzen.pdf)
 - [Praxisbaustein: Innovatives Lehrprojekt]({{ site.url }}/assets/Lehrprojekt.pdf)   
 
+<br>
 
 ## Arbeitszeugnisse
 - [Generaldelegation Palästinas]({{ site.url }}/assets/Generaldelegation.pdf)
@@ -70,6 +73,7 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 - [Tutorium in der Germanistik]({{ site.url }}/assets/Tutorium.pdf)
 - [Bibliothek des Germanistischen Instituts]({{ site.url }}/assets/bib.pdf)   
 
+<br>
 
 ## Sonstige
 - [Hochschulverwaltung]({{ site.url }}/assets/Hochschulverwaltung.pdf)
@@ -77,5 +81,6 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 - [Professionelle Gesprächsführung II]({{ site.url }}/assets/Gespraechsfuehrung2.pdf)
 - [Bildgewinnung und Produktion]({{ site.url }}/assets/Bildgewinnung.pdf)   
 
+<br>
 
 Beglaubigte Originale können jederzeit gerne angefordert werden.
