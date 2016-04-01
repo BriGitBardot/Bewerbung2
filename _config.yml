@@ -16,7 +16,7 @@ stackoverflow_link: http://stackoverflow.com/users/3616812/user3616812
 
 # Footer
 footer_left: "<a href=\"http://brigitbardot.github.io/Bewerbung2CarteNoire/impressum\">Impressum</a>"
-footer_right: "powered by <a href="https://jekyllrb.com" target="_blank">Jekyll</a>"
+footer_right: "powered by <a href=\"https://jekyllrb.com\" target="_blank">Jekyll</a>"
 
 # Build settings
 markdown: kramdown
