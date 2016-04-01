@@ -15,7 +15,7 @@ linkedin_link: https://www.linkedin.com/profile/preview?vpa=pub&locale=de_DE
 stackoverflow_link: http://stackoverflow.com/users/3616812/user3616812
 
 # Footer
-footer_left: "<a href="http://brigitbardot.github.io/Bewerbung2CarteNoire/impressum/">Impressum</a>"
+footer_left: "<a href="{{ site.baseurl }}/impressum/">Impressum</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
