@@ -19,11 +19,11 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 - [Hochschulzugangsberechtigung]({{ site.url }}/assets/AllgemeineHochschulreife.pdf)
 - [Magister-Urkunde]({{ site.url }}/assets/Magisterurkunde.pdf)
 
-## Sprachnachweise   
+## Sprachnachweise
 ### Englisch
-- [TOEFL]({{ site.url }}/assets/toefl.pdf)   
-- [Ordinate 10-Set]({{ site.url }}/assets/OrdinateSet10.pdf)   
-- [Academic Writing Skills]({{ site.url }}/assets/AcademicWritingSkills.pdf)   
+- [TOEFL]({{ site.url }}/assets/toefl.pdf)
+- [Ordinate 10-Set]({{ site.url }}/assets/OrdinateSet10.pdf)
+- [Academic Writing Skills]({{ site.url }}/assets/AcademicWritingSkills.pdf)
 
 ### Französich
 - [DELF]({{ site.url }}/assets/delf.pdf)
