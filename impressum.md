@@ -6,11 +6,8 @@ layout: default
   <div class="row index all-posts">
 
     <h1 class="header author-header">Impressum</h1>
-   
-  </div>
-</div>
 
-<hr class="search-hr" />
+    <div id="search-container">
 #### Angaben gemäß § 5 TMG:
 Annika Hamachers   
 Dahlweg 34   
@@ -42,4 +39,13 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten d
 
 Quellen: http://www.e-recht24.de Impressum Generator, eRecht24 Disclaimer, eRecht24 Datenschutzerklärung für Facebook, Google Analytics Bedingungen
 
+	
+	
+	
+      </div>
+    </div>
 
+  </div>
+</div>
+
+<hr class="search-hr" />
