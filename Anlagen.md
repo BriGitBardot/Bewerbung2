@@ -16,8 +16,8 @@ tags:
 Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine Abschlüsse und Kenntnisse bescheinigen:
 
 ## Allgemein anerkannte Abschlüsse
-- [Hochschulzugangsberechtigung]({{ site.url }}/assets/AllgemeineHochschulreife.pdf)
-- [Magister-Urkunde]({{ site.url }}/assets/Magisterurkunde.pdf)
+- [Hochschulzugangsberechtigung]({{ site.url }}/pdfs/AllgemeineHochschulreife.pdf)
+- [Magister-Urkunde]({{ site.url }}/pdfs/Magisterurkunde.pdf)
 <br>
 
 ## Sprachnachweise   
