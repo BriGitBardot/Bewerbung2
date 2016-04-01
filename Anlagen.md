@@ -73,7 +73,7 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 - [LVM-Versicherung]({{ site.url }}/pdfs/LVM.pdf)
 - [Schreibberatung]({{ site.url }}/pdfs/Schreibberatung.pdf)
 - [Tutorium in der Germanistik]({{ site.url }}/pdfs/Tutorium.pdf)
-- [Bibliothek des Germanistischen Instituts]({{ site.url }}/pdfs/bib.pdf)   
+- [Bibliothek des Germanistischen Instituts]({{ site.url }}/pdfs/Bib.pdf)   
 
 <br>
 
