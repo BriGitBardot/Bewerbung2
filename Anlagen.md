@@ -29,7 +29,7 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 - [Academic Writing Skills]({{ site.url }}/pdfs/AcademicWritingSkills.pdf)
 
 ### Französich
-- [DELF]({{ site.url }}/assets/delf.pdf)
+- [DELF]({{ site.url }}/pdf/delf.pdf)
 
 ### Türkisch
 - [1. Semester]({{ site.url }}/pdfs/tuerkisch1.pdf)
@@ -38,7 +38,7 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 <br>
 
 ## Software
-- [Java]({{ site.url }}/assets/java.pdf)
+- [Java]({{ site.url }}/pdfs/java.pdf)
 - [Makros und Masken mit Visual Basics]({{ site.url }}/pdfs/vba.pdf)
 - [Gesis-Summer School: MPlus]({{ site.url }}/pdfs/MPlus.pdf)
 - [SPSS]({{ site.url }}/pdfs/spss.pdf)
