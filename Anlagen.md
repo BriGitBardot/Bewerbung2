@@ -59,7 +59,7 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 - [Praxisbaustein: Mit Lehrportfolio und kollegialer Hospitation zu besserer Lehre]({{ site.url }}/pdfs/Portfolio.pdf)
 - [Sprechstunden und Beratungen effizient gestalten]({{ site.url }}/pdfs/Sprechstunden.pdf)
 - [Meine Stimme, mein Sprechen]({{ site.url }}/pdfs/Stimme.pdf)
-- [Kompetenzorientiertes Planen und Prüfen]({{ site.url }}/pdfs/Pruefen.pdf)
+- [Kompetenzorientiertes Planen und Prüfen]({{ site.url }}/pdfs/Pruefen.pdf) 
 - [Studierenden Schlüsselkompetenzen vermitteln]({{ site.url }}/pdfs/Schluesselkompetenzen.pdf)
 - [Praxisbaustein: Innovatives Lehrprojekt]({{ site.url }}/pdfs/Lehrprojekt.pdf)   
 
