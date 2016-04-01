@@ -2,8 +2,8 @@
 title: "Bewerbung"
 email: annika.hamachers@uni-muenster.de
 description: "Bewerbung um eine wissenschaftliche Projektstelle."
-baseurl: "/Bewerbung2CarteNoire/"
-url: "http://brigitbardot.github.io"
+baseurl: "/"
+url: "http://www.annika-hamachers.de"
 title_description: "Bewerbungstext"
 title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
 post_limit: 5
