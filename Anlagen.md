@@ -1,10 +1,16 @@
 ---
 layout:     post
 title:      Anlagen
-summary:    Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine Abschlüsse und Kenntnisse bescheinigen:
+date:       2015-03-23 15:31:19
+author:     Jacob Tomlinson
+summary:    Carte Noire is a dark blog theme for Jekyll focusing on a clear reading experience.
 categories: jekyll
-thumbnail:  file-text
-
+thumbnail:  heart
+tags:
+ - welcome
+ - to
+ - carte
+ - noire
 ---
 
 Welcome to Carte Noire.
