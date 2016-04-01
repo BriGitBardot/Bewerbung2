@@ -20,15 +20,15 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 - [Magister-Urkunde]({{ site.url }}/assets/Magisterurkunde.pdf)
 
 ## Sprachnachweise
-Englisch   
+### Englisch   
 - [TOEFL]({{ site.url }}/assets/toefl.pdf)   
 - [Ordinate 10-Set]({{ site.url }}/assets/OrdinateSet10.pdf)   
 - [Academic Writing Skills]({{ site.url }}/assets/AcademicWritingSkills.pdf)   
 
-Französich
+### Französich
 - [DELF]({{ site.url }}/assets/delf.pdf)
 
-Türkisch
+### Türkisch
 - [1. Semester]({{ site.url }}/assets/tuerkisch1.pdf)
 - [2. Semester]({{ site.url }}/assets/tuerkisch2.pdf)
 
