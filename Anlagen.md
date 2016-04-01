@@ -17,8 +17,7 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 
 ## Allgemein anerkannte Abschlüsse
 - [Hochschulzugangsberechtigung]({{ site.url }}/assets/AllgemeineHochschulreife.pdf)
-- [Magister-Urkunde]({{ site.url }}/assets/Magisterurkunde.pdf)   
-
+- [Magister-Urkunde]({{ site.url }}/assets/Magisterurkunde.pdf)
 <br>
 
 ## Sprachnachweise   
@@ -33,7 +32,8 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 
 ### Türkisch
 - [1. Semester]({{ site.url }}/assets/tuerkisch1.pdf)
-- [2. Semester]({{ site.url }}/assets/tuerkisch2.pdf)   
+- [2. Semester]({{ site.url }}/assets/tuerkisch2.pdf)
+<br>
 
 ## Software
 - [Java]({{ site.url }}/assets/java.pdf)
