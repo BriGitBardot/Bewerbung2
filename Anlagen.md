@@ -24,7 +24,7 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 
 ### Englisch
 - [TOEFL]({{ site.url }}/assets/toefl.pdf)
-- [Ordinate 10-Set]({{ site.url }}/assets/OrdinateSet10.pdf)
+- [Ordinate Set 10]({{ site.url }}/assets/OrdinateSet10.pdf)
 - [Academic Writing Skills]({{ site.url }}/assets/AcademicWritingSkills.pdf)
 
 ### Französich
