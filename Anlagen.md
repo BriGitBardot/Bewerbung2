@@ -29,7 +29,7 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 - [Academic Writing Skills]({{ site.url }}/pdfs/AcademicWritingSkills.pdf)
 
 ### Französich
-- [DELF]({{ site.url }}/pdf/delf.pdf)
+- [DELF]({{ site.url }}/pdfs/delf.pdf)
 
 ### Türkisch
 - [1. Semester]({{ site.url }}/pdfs/tuerkisch1.pdf)
