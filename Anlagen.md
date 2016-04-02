@@ -88,4 +88,4 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 
 <br>
 
-Beglaubigte Originale können jederzeit gerne angefordert werden.
+Beglaubigte Kopien der Originaldokumente können jederzeit gerne auch in Papierform persönlich abgegeben werden.
