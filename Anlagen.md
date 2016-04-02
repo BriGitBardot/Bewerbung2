@@ -15,6 +15,9 @@ tags:
 
 Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine Abschlüsse und Kenntnisse bescheinigen:
 
+- [Lebenslauf]({{ site.url }}/pdfs/cv.pdf)   
+<br>
+
 ## Allgemein anerkannte Abschlüsse
 - [Hochschulzugangsberechtigung]({{ site.url }}/pdfs/AllgemeineHochschulreife.pdf)
 - [Magister-Urkunde]({{ site.url }}/pdfs/Magisterurkunde.pdf)   
