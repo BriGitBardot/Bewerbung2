@@ -22,8 +22,6 @@ Bereits während meines Studiums war ich als Tutorin am Germanistischen Institut
 - **Visualisierung von Daten – von Excel bis d3.js** (Workshop im Rahmen der Allgemeinen Studien, SoSe 2016)   
 
 
-Darüber hinaus war ich im Wintersemester 2014/15 für einen Gastvortrag zum Thema **„Story Points – Problems Operationalizing 'Narration'“**  ins Seminar meiner Kollegin Dr. Barbara Maleckar ans Institut für Medien, Wissen und Kommunikation der Universität Augsburg eingeladen.   
+Darüber hinaus war ich im Wintersemester 2014/15 für einen Gastvortrag zum Thema **„Story Points – Problems Operationalizing 'Narration'“** ins Seminar meiner Kollegin Dr. Barbara Maleckar ans Institut für Medien, Wissen und Kommunikation der Universität Augsburg eingeladen.   
 
-Im Rahmen des  Lehrzertifikat	
-
-Umstrukturierung des Praktikantenkurs Reakkreditierung
+Außerdem bilde ich mich immer gerne in der Hochschullehre weiter. So habe ich beispielsweise am Zentrum für Hochschullehre der Universität Münster Workshops im Gesamtumfang von mehr als 160 Arbeitsstunden absolviert und so das [Zertifikat 'Hochschuldidaktik' des Landes NRW]({{ site.url }}/pdfs/Zertifikat_Hochschullehre.pdf) erworben.
