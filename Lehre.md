@@ -22,7 +22,7 @@ Bereits während meines Studiums war ich als Tutorin am Germanistischen Institut
 - **Visualisierung von Daten – von Excel bis d3.js** (Workshop im Rahmen der Allgemeinen Studien, SoSe 2016)   
 
 
-Darüber hinaus war ich im Wintersemester 2014/15 für einen Gastvortrag zum Thema **„Story Points vs. Story Grammars“**  ins Seminar meiner Kollegin Dr. Barbara Maleckar ans Institut für Medien, Wissen und Kommunikation der Universität Augsburg eingeladen.   
+Darüber hinaus war ich im Wintersemester 2014/15 für einen Gastvortrag zum Thema **„Story Points – Problems Operationalizing 'Narration'“**  ins Seminar meiner Kollegin Dr. Barbara Maleckar ans Institut für Medien, Wissen und Kommunikation der Universität Augsburg eingeladen.   
 
 Im Rahmen des  Lehrzertifikat	
 
