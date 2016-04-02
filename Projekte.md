@@ -15,7 +15,7 @@ tags:
 
 ## Dissertation: Möglichkeiten der (semi-)automatisierten Narrationsanalyse
 bla, bla, bla      
-Anwendungsgebiete in der Kommunikationswissenschaft --> Persuasionsforschung, insbesondere der Gesundheitskommunikation oder eben der Terrorismus-Detektion und -prävention (siehe Projekt 'Terrorist Narratives'
+Anwendungsgebiete in der Kommunikationswissenschaft --> Persuasionsforschung, insbesondere der Gesundheitskommunikation oder eben der Terrorismus-Detektion und -prävention (siehe Projekt 'Terrorist Narratives'). Die Dissertation wird voraussichtlich im Frühjahr nächsten Jahres abgeschlossen sein.
 <br>
 
 ## Operationalisierbarkeit von Narration
