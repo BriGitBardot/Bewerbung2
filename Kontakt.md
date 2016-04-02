@@ -1,5 +1,6 @@
 ---
 layout: default
+title:	Kontakt
 ---
 
 <div class="container-fluid index">
