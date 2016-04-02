@@ -3,14 +3,14 @@ layout: default
 title: Kontakt
 ---
 
-<div id="contact">
+<div>
   <h1 class="pageTitle">Kontaktieren Sie mich!</h1>
   <div class="contactContent">
     <p class="intro">Wenn meine Bewerbung Ihr Interesse geweckt hat, können Sie mich am Einfachsten direkt über das nebenstehende Formular kontaktieren.</p>
     <p class="intro">Über eine Antwort würde ich mich sehr freuen.</p>
     
   </div>
-  <form action="http://formspree.io/brimaidesigns@gmail.com" method="POST">
+  <form action="http://formspree.io/annika.hamachers@uni-muenster.de" method="POST">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email-Addresse</label>
