@@ -2,7 +2,7 @@
 layout:     post
 title:      Aktuelle Projekte
 date:       2015-03-23 15:31:19
-author:     Jacob Tomlinson
+author:     Annika Hamachers
 summary:    Carte Noire is a dark blog theme for Jekyll focusing on a clear reading experience.
 categories: jekyll
 thumbnail:  heartbeat
@@ -13,16 +13,26 @@ tags:
  - noire
 ---
 
-Welcome to Carte Noire.
+## Dissertation: Möglichkeiten der (semi-)automatisierten Narrationsanalyse
+bla, bla, bla      
+Anwendungsgebiete in der Kommunikationswissenschaft --> Persuasionsforschung, insbesondere der Gesundheitskommunikation oder eben der Terrorismus-Detektion und -prävention (siehe Projekt 'Terrorist Narratives'
+<br>
 
-Carte Noire began as a new theme for [my personal blog][1], but has now taken
-on a life of its own as a free theme for Jekyll.
+## Operationalisierbarkeit von Narration
+[Magisterarbeit]({{ site.url }}/pdfs/magister.pdf)
 
-The theme has been designed with simplicity and readability in mind. It makes
-use of third party services such as Disqus ad AddThis to ensure the blog has
-all the features you would expect from a dynamic application such as Wordpress
-but with the hosting and maintenance simplicity of Jekyll.
+## Terrorist Narratives
+Da dieses Projekt momentan noch recht am Anfang steht und entsprechend noch keine Publikationen oder Vorträge daraus hervorgegangen sind, finden Sie [hier]({{ site.url }}/pdfs/terrorist_narratives.pdf) als Beleg eine ausführlichere Version des Abstracts, das ich letzten Monat für Teilnahme der diesjährigendie Ecrea eingereicht habe (bitte dafür die Daumen drücken).   
+<br>
 
-Please use/copy/share Carte Noire!
+## Methoden der Kommunikationswissenschaft
+beinahe abgeschlossen
+drei Publikation stehen noch an
+[App zur Datenvisualizierung](https://shinika.shinyapps.io/CommunicationMethods/)
 
-[1]: http://www.jacobtomlinson.co.uk/
+## Publikationen
+-  Hamachers, A. (in preparation). 
+
+## Vorträge
+- Hamachers, A./Gehrau
+
