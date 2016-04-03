@@ -123,11 +123,10 @@ ul {
 	}
 }
 
-%btn {
+.button {
   background-color: $primary-color;
   display: inline-block;
   position: relative;
-  font-family: $sans-serif;
   text-decoration: none;
   color: $white;
   font-size: 1em;
@@ -138,7 +137,6 @@ ul {
   border-radius: 4px; 
   cursor: pointer;
   margin-bottom: .5em;
-  @include transition(background-color 0.14s ease-in-out);
 
   // hovering on the btn
   &:hover, &:focus {
@@ -155,41 +153,6 @@ ul {
 } // end .button
 
 
-// Default button class
-.button {
-  @extend %btn;
-
-  &-secondary {
-    @extend %btn;
-    background-color: $secondary-color;
-
-    &:hover {
-      background-color: darken($secondary-color, 10%);
-    }
-  }
- 
-  &-tertiary {
-    @extend %btn;
-    background-color: $tertiary-color;
-
-    &:hover {
-      background-color: darken($tertiary-color, 10%);
-    }
-  }  
-}
-
-
-// Outline Button
-.button__outline {  
-  @extend %btn;
-  background-color: transparent;
-  border: 3px solid $primary-color;
-  color: $primary-color;
-
-  &:hover {
-    background-color: $primary-color;
-    color: $white;
-  }
 
 
 .content-panel {
