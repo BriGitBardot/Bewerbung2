@@ -25,10 +25,8 @@ Anwendungsgebiete in der Kommunikationswissenschaft --> Persuasionsforschung, in
 Da dieses Projekt momentan noch recht am Anfang steht und entsprechend noch keine Publikationen oder Vorträge daraus hervorgegangen sind, finden Sie [hier]({{ site.url }}/pdfs/terrorist_narratives.pdf) als Beleg eine ausführlichere Version des Abstracts, das ich letzten Monat für Teilnahme der diesjährigendie Ecrea eingereicht habe (bitte dafür die Daumen drücken).   
 <br>
 
-## Methoden der Kommunikationswissenschaft
-beinahe abgeschlossen
-drei Publikation stehen noch an
-[App zur Datenvisualizierung](https://shinika.shinyapps.io/CommunicationMethods/)
+## Methoden der Kommunikationswissenschaft 2000-2015
+Für dieses sehr umfassende inhaltsanalytische Projekt wurden mehr als 10000 Beiträge aus 22 einschlägigen, kommunikationswissenschaftlichen Fachjournals kodiert. Ziel war es, herauszufinden, wie die drei ‚Basismethoden‘ Befragung, Inhaltsanalyse und Beobachtung das Profil des Faches in den vergangenen Jahren geprägt haben – in welchen inhaltlichen Bereichen mit welchen Methoden geforscht wird und welche Hierarchien der Methoden untereinander bestehen. Gemeinsam mit meinem ehemaligen Doktorvater Volker Gehrau wird dieses Projekt gerade mit der Ausarbeitung dreier Publikationen abgeschlossen (eine deutsch-international vergleichende Auswertung für die M&K, ein als Anschluss-Studie für Trumbo (2004) geframter Beitrag für JMCQ und eine Publikation zu Methoden-Ethik, wobei das Zieljournal noch unklar ist). Die Ergebnisse der Datenauswertung sind in einer [interaktiven App](https://shinika.shinyapps.io/CommunicationMethods/) visualisiert.   
 
 ## Vorträge und Veröffentlichungen
 - Hamachers, A., & Gehrau, V. (im Erscheinen). Der Stellenwert der Beobachtung innerhalb der Kommunikationswissenschaft. Eine Analyse empirischer Beiträge aus 22 Internationalen Fachjournals. In Vogelgesang, J./Matthes, J./Schieb, C./Quandt, T.  (Hrsg.)(2016): Beobachtungsverfahren in der Kommunikationswissenschaft. Köln: Herbert von Halem.
