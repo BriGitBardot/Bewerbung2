@@ -14,22 +14,16 @@ tags:
 ---
 
 ## Dissertation: Möglichkeiten der (semi-)automatisierten Narrationsanalyse
-bla, bla, bla      
-Anwendungsgebiete in der Kommunikationswissenschaft --> Persuasionsforschung, insbesondere der Gesundheitskommunikation oder eben der Terrorismus-Detektion und -prävention (siehe Projekt 'Terrorist Narratives'). Die Dissertation wird voraussichtlich im Frühjahr nächsten Jahres abgeschlossen sein.
-<br>
-
-## Operationalisierbarkeit von Narration
 Mein dauerhaftes wissenschaftliches Steckenpferd ist die Frage nach einer (spezifisch kommunikationswissenschaftlichen?) Operationalisierung von Narration.   
 Ich fand es immer spannend und verblüffend, dass Geschichten in allen Kulturkreisen einen so hohen Stellenwert haben und dass sie scheinbar besonders wirkmächtige Medieninhalte sind. Im Rahmen meines Magisterstudiums habe ich den Schwerpunkt in meinem Nebenfach Germanistik daher auf die Narratologie gelegt und das dort angeeignete Wissen in meiner [Abschlussarbeit]({{ site.url }}/pdfs/magister.pdf) versucht, für die Kommunikationswissenschaft nutzbar zu machen und messbare Narrationsmerkmale abzuleiten und mit Postulaten der Medienwirkungsforschung (insbesondere der Persuasionsforschung) in Einklang zu bringen. In einem Experimental-Setting wurden die aufgestellten Hypothesen überprüft – mit mäßige Erfolg: Die Manipulation vieler, in der Theorie postulierter Narrationsmerkmale hatte keinen Einfluss auf das Leseerlebnis (insbesondere das ‚Narrationsempfinden‘) der Versuchspersonen.   
 Um mir diese überraschenden Befunde erklären zu können, versuche ich seither in vielen kleinen Teilprojekten, Narration weniger als Textmerkmal, sondern als Konstruktionsleistung des Rezipienten [als "Rezeptionsmodalität" (Suckfüll/Scharkow)] zu betrachten. 
 Barbara
 Kanadier
 Terrorismus
-
+Anwendungsgebiete in der Kommunikationswissenschaft --> Persuasionsforschung, insbesondere der Gesundheitskommunikation oder eben der Terrorismus-Detektion und -prävention (siehe Projekt 'Terrorist Narratives'). Die Dissertation wird voraussichtlich im Frühjahr nächsten Jahres abgeschlossen sein.   
 
 ## Terrorist Narratives
 Da dieses Projekt momentan noch recht am Anfang steht und entsprechend noch keine Publikationen oder Vorträge daraus hervorgegangen sind, finden Sie [hier]({{ site.url }}/pdfs/terrorist_narratives.pdf) als Beleg eine ausführlichere Version des Abstracts, das ich letzten Monat für Teilnahme der diesjährigendie Ecrea eingereicht habe (bitte dafür die Daumen drücken).   
-<br>
 
 ## Methoden der Kommunikationswissenschaft 2000-2015
 Für dieses sehr umfassende inhaltsanalytische Projekt wurden mehr als 10000 Beiträge aus 22 einschlägigen, kommunikationswissenschaftlichen Fachjournals kodiert. Ziel war es, herauszufinden, wie die drei ‚Basismethoden‘ Befragung, Inhaltsanalyse und Beobachtung das Profil des Faches in den vergangenen Jahren geprägt haben – in welchen inhaltlichen Bereichen mit welchen Methoden geforscht wird und welche Hierarchien der Methoden untereinander bestehen. Gemeinsam mit meinem ehemaligen Doktorvater Volker Gehrau wird dieses Projekt gerade mit der Ausarbeitung dreier Publikationen abgeschlossen (eine deutsch-international vergleichende Auswertung für die M&K, ein als Anschluss-Studie für Trumbo (2004) geframter Beitrag für JMCQ und eine Publikation zu Methoden-Ethik, wobei das Zieljournal noch unklar ist). Die Ergebnisse der Datenauswertung sind in einer [interaktiven App](https://shinika.shinyapps.io/CommunicationMethods/) visualisiert.   
