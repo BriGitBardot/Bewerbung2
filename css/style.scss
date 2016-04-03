@@ -890,3 +890,12 @@ input[type=text],input[type=email],input[type=phone],input[type=password],input[
 textarea {
 	height:$line-height*3;
 }
+
+form {
+	margin-bottom:$padding;
+
+	// Wrap each form input/element in a field div
+	.field {
+		margin-bottom:$padding/2;
+	}
+}
