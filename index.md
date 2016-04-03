@@ -14,9 +14,9 @@ layout: pic
             
             <h1 class="header author-header" itemprop="headline">{{ site.title }}</h1>
 
-            <div class="author-text" align="right">
-Sehr geehrter Prof. Dr. Quandt,
-mit dieser Website möchte ich mich auf eine der ausgeschriebenen 2/3-Stellen im BMBF-geförderten Projekt  „Erkennung, Nachweis und Bekämpfung verdeckter Propaganda-Angriffe über Online-Medien“ bewerben. (Da ich mich relativ kurzfristig entschlossen habe, die Seite aufzusetzen, ist sie nicht ‚auf Hochglanz poliert‘ – insbesondere hatte ich keine Möglichkeit, sie auf iOS-Systemen zu testen. Sollten Probleme mit der Darstellung bestehen, bitte ich daher darum, die Seite am stationären Uni-Rechner mit Firefox, Internet-Explorer oder Chrome aufzurufen.)
+            <div class="author-text">
+<p align="left"> Sehr geehrter Prof. Dr. Quandt,
+mit dieser Website möchte ich mich auf eine der ausgeschriebenen 2/3-Stellen im BMBF-geförderten Projekt  „Erkennung, Nachweis und Bekämpfung verdeckter Propaganda-Angriffe über Online-Medien“ bewerben. (Da ich mich relativ kurzfristig entschlossen habe, die Seite aufzusetzen, ist sie nicht ‚auf Hochglanz poliert‘ – insbesondere hatte ich keine Möglichkeit, sie auf iOS-Systemen zu testen. Sollten Probleme mit der Darstellung bestehen, bitte ich daher darum, die Seite am stationären Uni-Rechner mit Firefox, Internet-Explorer oder Chrome aufzurufen.)</p>
 
             </div>
 
