@@ -142,7 +142,7 @@ ul {
   &:hover, &:focus {
     color: $white;
     text-decoration: none;
-    background-color: darken($medium, 10%);
+    background-color: $light-blue;
   } // end hover
 
   // clicking on the button
