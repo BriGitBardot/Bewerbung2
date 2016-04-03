@@ -868,3 +868,21 @@ label {
 	display:block;
 	margin-bottom:5px;
 }
+
+input[type=text],input[type=email],input[type=phone],input[type=password],input[type=number],input[type=search], textarea {
+	background: darken(white, 10%);
+	padding:5px;
+	outline:none;
+	border: none;
+	height: $line-height;
+	width:300px;
+	margin-bottom: .5rem;
+
+	&:focus {
+		border: 1px solid $light-blue;
+	}
+
+	&.full-width {
+		width:100%;
+	}
+}
