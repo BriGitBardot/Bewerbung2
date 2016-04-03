@@ -4,7 +4,7 @@ title:	Kontakt
 ---
 
 <div class="container-fluid index">
-  <div class="row index all-posts">
+<!--  <div class="row index all-posts">-->
   <div id="contact">
 
 <h1 class="header author-header">Kontaktieren Sie mich!</h1>
@@ -26,5 +26,5 @@ title:	Kontakt
   </form>
   </div>
 </div>
-</div>
+<!--</div>-->
 </div>
