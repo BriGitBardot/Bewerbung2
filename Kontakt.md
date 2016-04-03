@@ -5,11 +5,14 @@ title:	Kontakt
 
 <div class="container-fluid index">
   <div class="row index all-posts">
+  <div id="contact">
 
 <h1 class="header author-header">Kontaktieren Sie mich!</h1>
-	<br>
-<p>Wenn meine Bewerbung Ihr Interesse geweckt hat, können Sie mich am einfachsten direkt über dieses Formular kontaktieren. Alternativ können Sie meine Postanschrift dem Lebenslauf oder dem Impressum dieser Seite entnehmen.</p>
+
+<div class="contactContent">
+<p class="intro">Wenn meine Bewerbung Ihr Interesse geweckt hat, können Sie mich am einfachsten direkt über dieses Formular kontaktieren. Alternativ können Sie meine Postanschrift dem Lebenslauf oder dem Impressum dieser Seite entnehmen.</p>
 <p class="intro">Über eine Antwort würde ich mich sehr freuen.</p>
+</div>
 	
     <div id="search-container">
    <form action="http://formspree.io/annika.hamachers@uni-muenster.de" method="POST">
@@ -22,5 +25,6 @@ title:	Kontakt
     <input type="submit" value="Abschicken" class="button">
   </form>
   </div>
+</div>
 </div>
 </div>
