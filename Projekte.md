@@ -19,7 +19,13 @@ Anwendungsgebiete in der Kommunikationswissenschaft --> Persuasionsforschung, in
 <br>
 
 ## Operationalisierbarkeit von Narration
-[Magisterarbeit]({{ site.url }}/pdfs/magister.pdf)
+Mein dauerhaftes wissenschaftliches Steckenpferd ist die Frage nach einer (spezifisch kommunikationswissenschaftlichen?) Operationalisierung von Narration.   
+Ich fand es immer spannend und verblüffend, dass Geschichten in allen Kulturkreisen einen so hohen Stellenwert haben und dass sie scheinbar besonders wirkmächtige Medieninhalte sind. Im Rahmen meines Magisterstudiums habe ich den Schwerpunkt in meinem Nebenfach Germanistik daher auf die Narratologie gelegt und das dort angeeignete Wissen in meiner [Abschlussarbeit]({{ site.url }}/pdfs/magister.pdf) versucht, für die Kommunikationswissenschaft nutzbar zu machen und messbare Narrationsmerkmale abzuleiten und mit Postulaten der Medienwirkungsforschung (insbesondere der Persuasionsforschung) in Einklang zu bringen. In einem Experimental-Setting wurden die aufgestellten Hypothesen überprüft – mit mäßige Erfolg: Die Manipulation vieler, in der Theorie postulierter Narrationsmerkmale hatte keinen Einfluss auf das Leseerlebnis (insbesondere das ‚Narrationsempfinden‘) der Versuchspersonen.   
+Um mir diese überraschenden Befunde erklären zu können, versuche ich seither in vielen kleinen Teilprojekten, Narration weniger als Textmerkmal, sondern als Konstruktionsleistung des Rezipienten [als "Rezeptionsmodalität" (Suckfüll/Scharkow)] zu betrachten. 
+Barbara
+Kanadier
+Terrorismus
+
 
 ## Terrorist Narratives
 Da dieses Projekt momentan noch recht am Anfang steht und entsprechend noch keine Publikationen oder Vorträge daraus hervorgegangen sind, finden Sie [hier]({{ site.url }}/pdfs/terrorist_narratives.pdf) als Beleg eine ausführlichere Version des Abstracts, das ich letzten Monat für Teilnahme der diesjährigendie Ecrea eingereicht habe (bitte dafür die Daumen drücken).   
