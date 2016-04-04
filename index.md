@@ -29,7 +29,7 @@ So beflügelt Studium der Wirtschaftsinformatik, gleichzeitig frustriert, dass a
 
 <p align="left"> Arbeitslosigkeit gut genutzt
 andere Coursera-Kurse 
-<a href="https://www.coursera.org/course/nlangp" target="_blank">Natural Language Processing</a> , <a href="https://www.coursera.org/course/scicomp" target="_blank">High Performance Scientific Computing</a> ,  <a href="https://www.coursera.org/course/datavisualization" target="_blank">Data Visualization</a>,  <a href="https://www.coursera.org/course/bigdata/" target="_blank">Web Intelligence and Big Data</a>, <a href="https://www.coursera.org/learn/machine-learning" target="_blank">Stanford Machine Learning</a>, <a href="https://www.coursera.org/course/sna"  target="_blank">Social Network Analysis</a>, <a href="https://www.coursera.org/course/neuralnets" target="_blank">Neural Networks for Machine Learning</a>, <a href="https://www.coursera.org/course/androidpart1" target=“_blank">Programming Mobile Applications for Android Handheld Systems</a>
+<a href="https://www.coursera.org/course/nlangp" target="_blank">Natural Language Processing</a> , <a href="https://www.coursera.org/course/scicomp" target="_blank">High Performance Scientific Computing</a> ,  <a href="https://www.coursera.org/course/datavisualization" target="_blank">Data Visualization</a>,  <a href="https://www.coursera.org/course/bigdata/" target="_blank">Web Intelligence and Big Data</a>, <a href="https://www.coursera.org/learn/machine-learning" target="_blank">Stanford Machine Learning</a>, <a href="https://www.coursera.org/course/sna" target="_blank">Social Network Analysis</a>, <a href="https://www.coursera.org/course/neuralnets" target="_blank">Neural Networks for Machine Learning</a>, <a href="https://www.coursera.org/course/androidpart1" target="_blank">Programming Mobile Applications for Android Handheld Systems</a>
 
 Erfahrung im Umgang mit großen Datenmengen. Hadoop/Mapreduce
 Data Science Spezialization der Johns Hopkins  
@@ -39,13 +39,10 @@ Zeugnisse zu diesen Kursen sind in meinem <a href="www.linkedin.com/in/annikaham
 <p align="left"> Dieses Wissen fließt in mehrere meiner Projekte ein – derzeit insbesondere in meine Promotion, in der ich die Möglichkeiten computergestützter Narrationsanalysen auslote. Synergieeffekte ergeben sich aber bestimmt auch mit einem weiteren Projekt, mit dem ich mich seit kurzem befasse und in dem ich die unbeabsichtigte Wirkung der Radikalisierung von Jugendlichen durch spezifisch narrative Berichterstattung über Terroristen untersuche. Detailliertere Beschreibungen zu diesen Projekten finden Sie im entsprechenden Untermenü dieser Website.</p>
 <p align="left"> Planung, Betreuung und Analyse einer Survey-Studie bzw. die Planung, Betreuung, Durchführung und Analyse von Leitfadeninterviews.  Magisterarbeit  (quantitative Befragung), Forschungsprojekt (qualitative Leitfadeninterviews)
 Neugierig auf Wissen, das die Wirschaftsinformatiker einbringen, denn</p>
-<p align=“left“>Denn – so möchte ich abschließend deutlich klarstellen – ich sehe mich keineswegs als Informatikerin. Ich bin ‚lediglich‘ eine technik- und programmieraffine Kommunikationswissenschaftlerin, die es sich gern möglichst einfach macht und gute und innovative Ideen anderer aufgreift, um die eigenen, sozialwissenschaftlichen Kernkompetenzen strahlen zu lassen (so ist beispielsweise auch diese Website dank des Frameworks Jekyll  binnen weniger Stunden entstanden ;-) ). Ich denke also, dass ich für das Projekt sozusagen das ideale menschliche Interface zwischen beiden Disziplinen wäre und hätte großen Spaß, in Ihrem Team mitzuarbeiten. </p>
+<p align="left">Denn – so möchte ich abschließend deutlich klarstellen – ich sehe mich keineswegs als Informatikerin. Ich bin ‚lediglich‘ eine technik- und programmieraffine Kommunikationswissenschaftlerin, die es sich gern möglichst einfach macht und gute und innovative Ideen anderer aufgreift, um die eigenen, sozialwissenschaftlichen Kernkompetenzen strahlen zu lassen (so ist beispielsweise auch diese Website dank des Frameworks Jekyll  binnen weniger Stunden entstanden ;-) ). Ich denke also, dass ich für das Projekt sozusagen das ideale menschliche Interface zwischen beiden Disziplinen wäre und hätte großen Spaß, in Ihrem Team mitzuarbeiten. </p>
 <p align="left"> Über eine Einladung zum Vorstellungsgespräch würde ich mich entsprechend sehr freuen. </p>
 <p align="left"> Mit freundlichen Grüßen</p>
 <p align="left"> Annika Hamachers</p>
-
-
-
             </div>
 
             {% include social_links.html %}
