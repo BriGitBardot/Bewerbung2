@@ -18,7 +18,7 @@ Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine A
 - [Lebenslauf]({{ site.url }}/pdfs/cv.pdf)   
 <br>
 
-## Allgemein anerkannte Abschlüsse
+<h2>Allgemein anerkannte Abschlüsse</h2>
 - [Hochschulzugangsberechtigung]({{ site.url }}/pdfs/AllgemeineHochschulreife.pdf)
 - [Magister-Urkunde]({{ site.url }}/pdfs/Magisterurkunde.pdf)   
 
