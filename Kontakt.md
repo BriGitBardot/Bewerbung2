@@ -1,6 +1,7 @@
 ---
 layout:     contact
 title:      Kontaktieren Sie mich!
+thumbnail:  envelope
 ---
 
 <div class="container-fluid index">
