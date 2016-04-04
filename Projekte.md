@@ -12,8 +12,7 @@ tags:
  - carte
  - noire
 ---
-
-<span itemprop="articleBody"><h2 id="operationalisierbarkeit-von-narration-und-narrative-medienwirkungen">Operationalisierbarkeit von Narration und narrative Medienwirkungen</h2>
+<h2 id="operationalisierbarkeit-von-narration-und-narrative-medienwirkungen">Operationalisierbarkeit von Narration und narrative Medienwirkungen</h2>
 <p>Mein dauerhaftes wissenschaftliches Steckenpferd ist die Frage nach einer (spezifisch kommunikationswissenschaftlichen?) Operationalisierung von Narration. <br />
 Ich fand es immer spannend und verblüffend, dass Geschichten in allen Kulturkreisen einen so hohen Stellenwert haben und dass sie scheinbar besonders wirkmächtige Medieninhalte sind. Im Rahmen meines Magisterstudiums habe ich den Schwerpunkt in meinem Nebenfach Germanistik daher auf die Narratologie gelegt und das dort angeeignete Wissen in meiner <a href="http://www.annika-hamachers.de/pdfs/magister.pdf">Abschlussarbeit</a> versucht, für die Kommunikationswissenschaft nutzbar zu machen und messbare Narrationsmerkmale abzuleiten und mit Postulaten der Medienwirkungsforschung (insbesondere der Persuasionsforschung) in Einklang zu bringen. In einem Experimental-Setting wurden die aufgestellten Hypothesen überprüft – mit mäßige Erfolg: Die Manipulation vieler, in der Theorie postulierter Narrationsmerkmale hatte keinen Einfluss auf das Leseerlebnis (insbesondere das ‚Narrationsempfinden‘) der Versuchspersonen. <br />
 Um mir diese überraschenden Befunde besser erklären zu können, versuche ich seither in vielen kleinen Teilprojekten, Narration unter ganz unterschiedlichen Blickwinkeln zu betrachten. Als besonders vielversprechend hat sich dabei erwiesen, Narration nicht ausschließlich als Textmerkmal, sondern (auch) als Konstruktionsleistung des Rezipienten [als “Rezeptionsmodalität” (Suckfüll, 2002, 2008; Suckfüll/Scharkow, 2009 )] zu betrachten.  Dieser Perspektivwechsel bildet den Ausgangspunkt zweier, in der Zukunft hoffentlich realisierter Projekte. Zum einen möchte ich mit meiner Augsburger Kollegin Barbara Maleckar das aus der kognitiven Linguistik stammende Konstrukt des ‚Story Points‘  (grob: die Evaluation der Globalbedeutung eines Textes durch den Rezipienten) auf die persuasive Wirkung von Medienangeboten untersuchen. Zum anderen ist locker geplant, mit den Kollegen Marisa Bortolussi und Peter Dixon von der University of Alberta, das Spektrum der (neuerdings) in der Kommunikationswissenschaft so beliebten neurowissenschaftlichen Methoden zu erweitern, indem wir transkranielle Magnetstimulation einsetzten, um zu prüfen, welchen Anteil motorische Areale an der Verstehensleistung narrativer Texte haben. <br />
@@ -47,4 +46,4 @@ Durch die spezifischen Wirkmechanismen narrativer Medieninhalte sehen wir von be
   <li>Hamachers, A. (2011). Erzählen als Kern von Unterhaltung. Zur Operationalisierbarkeit von Narration in der Kommunikationswissenschaft. Münster: WWU. [Magisterarbeit]</li>
   <li>Blöbaum, B. (Hrsg.)(2008). Hauptsache Medien: Berufsbiographische Interviews mit  Journalisten, PR-Praktikern und Werbern. Münster: Lit. [Mitautorenschaft]</li>
 </ul>
-</span>
+
