@@ -12,7 +12,7 @@ tags:
  - carte
  - noire
 ---
-<div class="container">
+<div class="con">
 <div class="dhead"><h2 id="operationalisierbarkeit-von-narration-und-narrative-medienwirkungen">Operationalisierbarkeit von Narration und narrative Medienwirkungen</h2></div>
 <div class="dbody"><p>Mein dauerhaftes wissenschaftliches Steckenpferd ist die Frage nach einer (spezifisch kommunikationswissenschaftlichen?) Operationalisierung von Narration. <br />
 Ich fand es immer spannend und verblüffend, dass Geschichten in allen Kulturkreisen einen so hohen Stellenwert haben und dass sie scheinbar besonders wirkmächtige Medieninhalte sind. Im Rahmen meines Magisterstudiums habe ich den Schwerpunkt in meinem Nebenfach Germanistik daher auf die Narratologie gelegt und das dort angeeignete Wissen in meiner <a href="http://www.annika-hamachers.de/pdfs/magister.pdf">Abschlussarbeit</a> versucht, für die Kommunikationswissenschaft nutzbar zu machen und messbare Narrationsmerkmale abzuleiten und mit Postulaten der Medienwirkungsforschung (insbesondere der Persuasionsforschung) in Einklang zu bringen. In einem Experimental-Setting wurden die aufgestellten Hypothesen überprüft – mit mäßige Erfolg: Die Manipulation vieler, in der Theorie postulierter Narrationsmerkmale hatte keinen Einfluss auf das Leseerlebnis (insbesondere das ‚Narrationsempfinden‘) der Versuchspersonen. <br />
