@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     pro
 title:      Aktuelle Projekte
 date:       2015-03-23 15:31:19
 author:     Annika Hamachers
