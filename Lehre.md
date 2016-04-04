@@ -1,6 +1,6 @@
 ---
-layout:     contact
-title:      Kontaktieren Sie mich!
+layout:     post
+title:      Lehrerfahrung
 ---
 
 Bereits während meines Studiums war ich als Tutorin am Germanistischen Institut der Universität Münster tätig. Im Rahmen meiner Tätig als wissenschaftliche Mitarbeiterin habe ich folgende Lehrveranstaltungen und Workshops in den Bachelor- und Masterstudiengängen  des Instituts für Kommunikationswissenschaft angeboten:   
