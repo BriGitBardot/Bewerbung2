@@ -13,7 +13,7 @@ tags:
  - noire
 ---
 
-Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine Abschlüsse und Kenntnisse bescheinigen:<br>
+Anbei finden Sie eine Auflistung potenziell interessanter Dokumente, die meine Abschlüsse und Kenntnisse bescheinigen:   
 - [Lebenslauf]({{ site.url }}/pdfs/cv.pdf)
 <br>
 <h2>Allgemein anerkannte Abschlüsse</h2>
