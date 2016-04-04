@@ -17,7 +17,7 @@ layout: pic
             <div class="author-text">
 <p align="left"> Sehr geehrter Prof. Dr. Quandt,</p>
 
-<p align="left"> mit dieser Website möchte ich mich auf eine der ausgeschriebenen 2/3-Stellen im BMBF-geförderten Projekt  „Erkennung, Nachweis und Bekämpfung verdeckter Propaganda-Angriffe über Online-Medien“ bewerben. (Da ich mich relativ kurzfristig entschlossen habe, die Seite aufzusetzen, ist sie nicht ‚auf Hochglanz poliert‘ – insbesondere hatte ich keine Möglichkeit, sie auf iOS-Systemen zu testen. Sollten Probleme mit der Darstellung bestehen, bitte ich daher darum, die Seite am stationären Uni-Rechner mit Firefox, Internet-Explorer oder Chrome aufzurufen.)</p>
+<p align="left"> mit dieser Website möchte ich mich auf eine der ausgeschriebenen 2/3-Stellen im BMBF-geförderten Projekt  „Erkennung, Nachweis und Bekämpfung verdeckter Propaganda-Angriffe über Online-Medien“ bewerben.</p>
 
 <p align="left">Auch wenn Sie für die Pre-Doc-Stellen Personen suchen, die sich schwerpunktmäßig mit der Konzeption und Durchführung einer Befragungsstudie befassen, reizt mich am Projekt zugegebenermaßen vor allem, dass auch eine automatisierte Inhaltsanalyse im Zentrum stehen wird. Denn in meine eigene Forschung haben sich in den letzten Jahren immer mehr Bezüge zur Informatik eingeschlichen und nun befasse ich mich sogar ganz zentral mit maschinellem Lernen und Natural Language Processing. </p>
 
