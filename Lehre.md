@@ -1,6 +1,16 @@
 ---
 layout:     post
 title:      Lehrerfahrung
+date:       2015-03-23 15:31:19
+author:     Annika Hamachers
+summary:    Carte Noire is a dark blog theme for Jekyll focusing on a clear reading experience.
+categories: jekyll
+thumbnail:  graduation-cap
+tags:
+ - welcome
+ - to
+ - carte
+ - noire
 ---
 
 Bereits während meines Studiums war ich als Tutorin am Germanistischen Institut der Universität Münster tätig. Im Rahmen meiner Tätig als wissenschaftliche Mitarbeiterin habe ich folgende Lehrveranstaltungen und Workshops in den Bachelor- und Masterstudiengängen  des Instituts für Kommunikationswissenschaft angeboten:   
