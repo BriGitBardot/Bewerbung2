@@ -898,6 +898,7 @@ form {
 	// Wrap each form input/element in a field div
 	.field {
 		margin-bottom:$padding/2;
+		float:none;
 	}
 // Notes go under the input fields
 	.note {
