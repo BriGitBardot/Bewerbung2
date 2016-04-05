@@ -951,7 +951,7 @@ button.acc {
   font-weight: normal;
   padding: .5em 1.5em;
   border: 0;
-  border-radius: 4px; 
+  border-radius: 8px; 
   cursor: pointer;
   margin-bottom: .5em;
     //padding: 18px;
@@ -960,19 +960,23 @@ button.acc {
     //border: none;
     //outline: none;
     transition: 0.4s;
-    -webkit-border-radius: 4px;
--moz-border-radius: 4px;
+    -webkit-border-radius: 8px;
+-moz-border-radius: 8px;
 
   // hovering on the btn
-  &:hover, &:focus {
+  &:hover {
     color: $white;
     text-decoration: none;
     background-color: $light-blue;
   } // end hover
 
+  &:focus {
+    background-color: $dark-blue;
+  }
   // clicking on the button
   &:active {
-    top: 1px; // adds a tiny hop to the click
+    top: 1px; 
+    background-color: $dark-blue;// adds a tiny hop to the click
   } // end active
 
 }
