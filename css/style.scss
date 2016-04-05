@@ -980,8 +980,10 @@ button.acc {
     background-color: $medium;// adds a tiny hop to the click
   } // end active
   
-  &:first-child{color: $medium;}
+}
 
+#erstes {
+	background-color: $medium;
 }
 
 
