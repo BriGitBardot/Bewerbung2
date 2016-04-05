@@ -972,6 +972,7 @@ button.acc {
 
   &:focus {
     background-color: $dark-blue;
+    outline:0;
   }
   // clicking on the button
   &:active {
