@@ -979,12 +979,11 @@ button.acc {
     //top: 1px; 
     background-color: $medium;// adds a tiny hop to the click
   } // end active
+  
+  &:first-child{color: $medium;}
 
 }
 
-.acc:first-of-type {
-    background: #medium;
-}
 
 @media (max-width: 766px) {
     .contactContent{width:90%;float:left;margin-right:2.12766%; margin-left: 3%;}
