@@ -941,7 +941,7 @@ form {
 /* Style the buttons that are used to open and close the accordion panel */
 button.acc {
   cursor: pointer;
-  background-color: $medium;
+  background-color: $light-blue;
   display: inline-block;
   position: relative;
   text-decoration: none;
@@ -967,7 +967,7 @@ button.acc {
   &:hover {
     color: $white;
     text-decoration: none;
-    background-color: $light-blue;
+    background-color: $dark-blue;
   } // end hover
 
   &:focus {
@@ -976,7 +976,7 @@ button.acc {
   // clicking on the button
   &:active {
     top: 1px; 
-    background-color: $dark-blue;// adds a tiny hop to the click
+    background-color: $medium;// adds a tiny hop to the click
   } // end active
 
 }
