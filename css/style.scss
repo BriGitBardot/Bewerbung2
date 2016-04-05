@@ -975,7 +975,7 @@ button.acc {
   }
   // clicking on the button
   &:active {
-    top: 1px; 
+    //top: 1px; 
     background-color: $medium;// adds a tiny hop to the click
   } // end active
 
