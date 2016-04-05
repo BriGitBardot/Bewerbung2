@@ -982,9 +982,8 @@ button.acc {
 
 }
 
-.acc:nth-of-type(1)
-{
-    background-color: $medium;
+.acc:first-of-type {
+    background: #medium;
 }
 
 @media (max-width: 766px) {
