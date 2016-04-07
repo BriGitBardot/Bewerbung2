@@ -27,10 +27,10 @@ thumbnail:  envelope
   </form>
   </div>
 </div>
-<div class="row index all-posts">
+<div>
 <p> Oder holen Sie zunächst Referenzen über mich ein.</p>
 <p>Für wissenschaftliche Belange wenden Sie Sich a</p>
-<p></p>
+<p>Wolfram</p>
 
 </div>
 
