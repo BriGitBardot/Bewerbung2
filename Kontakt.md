@@ -27,8 +27,5 @@ thumbnail:  envelope
   </form>
  </div>
 </div>
-<div>
-<p>Test</p>
-</div>
 <!--</div>-->
 </div>
