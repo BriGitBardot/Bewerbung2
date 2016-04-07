@@ -5,7 +5,7 @@ thumbnail:  envelope
 ---
 
 <div class="container-fluid index">
-<!--  <div class="row index all-posts">-->
+
   <div id="contact">
 
 <h1 class="header author-header">Kontaktieren Sie mich!</h1>
@@ -27,5 +27,11 @@ thumbnail:  envelope
   </form>
   </div>
 </div>
-<!--</div>-->
+<div class="row index all-posts">
+<p> Oder holen Sie zunächst Referenzen über mich ein.</p>
+<p>Für wissenschaftliche Belange wenden Sie Sich an</p>
+<p>Fü</p>
+
+</div>
+
 </div>
