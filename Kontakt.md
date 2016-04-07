@@ -29,8 +29,3 @@ thumbnail:  envelope
 </div>
 
 </div>
-
-Oder holen Sie Referenzen über mich ein
-
-bei meinem Doktorvater <a href="https://www.uni-muenster.de/Kowi/personen/armin-scholl.html" target="_blank">Prof. Dr. Armin Scholl</a>
-oder meinem ehemaligen Redakteur <a href="https://www.ig-zeitarbeit.de/person/redakteur-wolfram-linke" target="_blank">Wolfram Linke</a>
