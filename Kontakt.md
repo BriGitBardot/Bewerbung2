@@ -28,7 +28,4 @@ thumbnail:  envelope
  </div>
 </div>
 
-<div>
-<p>Test</p>
-</div>
 </div>
