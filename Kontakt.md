@@ -29,3 +29,6 @@ thumbnail:  envelope
 </div>
 
 </div>
+<div class="container-fluid index">
+<p class="intro">Test</p>
+</div>
