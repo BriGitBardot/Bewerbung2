@@ -26,7 +26,7 @@ thumbnail:  envelope
     <input type="submit" value="Abschicken" class="button">
   </form>
  </div>
-<p class="intro">Test</p>
+<p class="intro">Wenn meine Bewerbung Ihr Interesse geweckt hat, können Sie mich am einfachsten direkt über dieses Formular kontaktieren. Alternativ können Sie meine Postanschrift dem Lebenslauf oder dem Impressum dieser Seite entnehmen.</p>
 </div>
 </div>
 </div>
