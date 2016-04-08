@@ -26,9 +26,7 @@ thumbnail:  envelope
     <input type="submit" value="Abschicken" class="button">
   </form>
  </div>
-<div style="clear:both;">
 <p class="intro">Test</p>
-</div>
 </div>
 </div>
 </div>
