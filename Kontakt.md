@@ -12,7 +12,7 @@ thumbnail:  envelope
 
 <div class="contactContent">
 <p class="intro">Wenn meine Bewerbung Ihr Interesse geweckt hat, können Sie mich am einfachsten direkt über dieses Formular kontaktieren. Alternativ können Sie meine Postanschrift dem Lebenslauf oder dem Impressum dieser Seite entnehmen.</p>
-<p class="intro">Über eine Antwort würde ich mich sehr freuen. Test</p>
+<p class="intro">Über eine Antwort würde ich mich sehr freuen.</p>
 
 	
  <div id="search-container">
