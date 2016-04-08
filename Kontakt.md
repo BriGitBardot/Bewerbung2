@@ -26,9 +26,10 @@ thumbnail:  envelope
     <input type="submit" value="Abschicken" class="button">
   </form>
  </div>
+<div style="clear:both;">
+<p class="intro">Test</p>
+</div>
 </div>
 
 </div>
-<div class="container-fluid index">
-<p class="intro">Test</p>
-</div>
+
