@@ -13,7 +13,7 @@ tags:
  - noire
 ---
 
-TestBereits während meines Studiums war ich als Tutorin am Germanistischen Institut der Universität Münster tätig. Im Rahmen meiner Tätig als wissenschaftliche Mitarbeiterin habe ich folgende Lehrveranstaltungen und Workshops in den Bachelor- und Masterstudiengängen  des Instituts für Kommunikationswissenschaft angeboten:   
+Bereits während meines Studiums war ich als Tutorin am Germanistischen Institut der Universität Münster tätig. Im Rahmen meiner Tätig als wissenschaftliche Mitarbeiterin habe ich folgende Lehrveranstaltungen und Workshops in den Bachelor- und Masterstudiengängen  des Instituts für Kommunikationswissenschaft angeboten:   
 
 - **Praktikantenkurs** (Übung im Bachelorstudiengang, SoSe 2012, WS 2012/13, WS 2013/14, SoSe 2014)
 - **Tutorium zur „Einführung in die Kommunikationswissenschaft“** (Übung im Bachelorstudiengang,  SoSe 2013)
