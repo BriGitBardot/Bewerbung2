@@ -12,14 +12,12 @@ layout: pic
                 <img id="bild" src="Anonymous.jpg" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" />
             </div>
             
-            <h1 class="header author-header" itemprop="headline">{{ site.title }}</h1>
+            <h1 class="header author-header" itemprop="headline">Infos gefällig?</h1>
 
             <div class="author-text">
 <p align="left">Sehr geehrte Damen und Herren,</p>
 
 <p align="left">diese Website soll dazu dienen, dass Sie sich ein umfassendes Bild von mir und meinen Qualifikationen machen können.</p>
-
-<p align="left">Auch wenn Sie für die Pre-Doc-Stellen Personen suchen, die sich schwerpunktmäßig mit der Konzeption und Durchführung einer Befragungsstudie befassen, reizt mich am Projekt zugegebenermaßen vor allem, dass auch eine automatisierte Inhaltsanalyse im Zentrum stehen wird. Denn in meine eigene Forschung haben sich in den letzten Jahren immer mehr Bezüge zur Informatik eingeschlichen und nun befasse ich mich sogar ganz zentral mit maschinellem Lernen und Natural Language Processing. </p>
 
 <p align="left">Über die Navigationsleiste gelangen Sie zu Informationen zu meinen momentanen wissenschaftlichen Projekten (inkl. der daraus bislang hervorgegangenen Publikationen) und zu meiner Lehrerfahrung. Außerdem stehen Ihnen unter ‚Anlagen‘ alle meine bislang erworbenen Zeugnisse und Zertifikate sowie ein ausführlicher tabellarischer Lebenslauf zum Download  zur Verfügung.</p>
 
