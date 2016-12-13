@@ -13,7 +13,7 @@ layout: pic
                 <img id="bild" src="Bewerbung_image.jpg" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" />
             </div>
             
-            <h1 class="header" itemprop="headline">Mehr Informationen gefällig?</h1>
+            <h1 class="header author-header" itemprop="headline">Mehr Informationen gefällig?</h1>
 
             <div class="author-text">
 <p align="left">Sehr geehrte Damen und Herren,</p>
