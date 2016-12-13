@@ -9,6 +9,7 @@ layout: pic
         <div class="col-md-12 main content-panel">
 
             <div class="gravatar">
+                <!-- img id="bild" src="Anonymous.jpg" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" / -->
                 <img id="bild" src="Anonymous.jpg" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" />
             </div>
             
