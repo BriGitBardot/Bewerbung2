@@ -13,16 +13,16 @@ layout: pic
                 <img id="bild" src="Bewerbung_image.jpg" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" />
             </div>
             
-            <h1 class="header author-header" itemprop="headline">Infos gefällig?</h1>
+            <h1 class="header author-header" itemprop="headline">Mehr Informationen gefällig?</h1>
 
             <div class="author-text">
 <p align="left">Sehr geehrte Damen und Herren,</p>
 
 <p align="left">diese Website soll dazu dienen, dass Sie sich ein umfassendes Bild von mir und meinen Qualifikationen machen können.</p>
 
-<p align="left">Über die Navigationsleiste gelangen Sie zu Informationen zu meinen momentanen wissenschaftlichen Projekten (inkl. der daraus bislang hervorgegangenen Publikationen) und zu meiner Lehrerfahrung. Außerdem stehen Ihnen unter ‚Anlagen‘ alle meine bislang erworbenen Zeugnisse und Zertifikate sowie ein ausführlicher tabellarischer Lebenslauf zum Download  zur Verfügung.</p>
+<p align="left">Über die Navigationsleiste oben links gelangen Sie zu Informationen zu meinen momentanen wissenschaftlichen Projekten (inkl. der daraus bislang hervorgegangenen Publikationen) und zu meiner Lehrerfahrung. Außerdem stehen Ihnen unter ‚Anlagen‘ alle meine bislang erworbenen Zeugnisse und Zertifikate sowie ein ausführlicher tabellarischer Lebenslauf zum Download zur Verfügung.</p>
 
-<p align="left"> Freundlichen Grüße und hoffentlich bis bald</p>
+<p align="left"> Freundliche Grüße und hoffentlich bis bald</p>
 
 <p align="left"> Annika Hamachers</p>
             </div>
