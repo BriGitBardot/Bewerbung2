@@ -10,7 +10,7 @@ layout: pic
 
             <div class="gravatar">
                 <!-- img id="bild" src="Anonymous.jpg" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" / -->
-                <img id="bild" src="Anonymous.jpg" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" />
+                <img id="bild" src="Bewerbung_image.jpg" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" />
             </div>
             
             <h1 class="header author-header" itemprop="headline">Infos gefällig?</h1>
